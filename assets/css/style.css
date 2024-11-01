@@ -1,0 +1,38 @@
+div .simple_widget_notice {
+	margin-left: 0;
+	margin-top: 10px;
+	font-weight: bold;
+}
+div .body-container {
+	position: right;
+	text-align: relative;
+	display: block;
+}
+label .textarea-label {
+	font-family: sans-serif;
+}
+.row-container {
+	margin-top: 30px;
+	font-size: 15px;
+	font-style: italic;
+    display: inherit;
+}
+input[type='text'], input[type='number'] {
+	width: 40%;
+	resize: none;
+	height: 35px;
+	font-size: 18px;
+	font-family: comic-sans;
+}
+.textarea-description {
+	font-size: 12px;
+	font-style: italic;
+	font-family: comic-sans;
+    display: inherit;
+}
+input[type='submit'] {
+	position: center;
+	font-weight: bold;
+	font-family: sans-serif;
+	padding-left: 30px;
+}
